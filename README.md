@@ -1,7 +1,3 @@
-# Architecture-for-real-time-video-streaming-analytics
-This is an architecture to process video in real time using Kafka as a messaging service and Spark to process frames in real time, the architecture can be summarized in the image below.
-![img](https://github.com/juan-csv/Architecture-for-real-time-video-streaming-analytics/blob/master/results/architecture.png)
-
 # Start Zookeeper and kafka
 To simplify the tedious task of building a kafka server, we will use Docker with Kafka and Zookeeper out of the box:
 Go to the kafka-docker folder

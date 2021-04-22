@@ -1,0 +1,4 @@
+kafka-python==2.0.2
+opencv-python==4.5.1.48
+imutils==0.5.4
+pyspark==3.1.1
